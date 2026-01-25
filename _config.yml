@@ -1,2 +1,6 @@
-title: 我的隨筆
-theme: jekyll-theme-cayman
+remote_theme: jekyll/minima
+
+# 網站標題
+title: Ayerpazbulikinoff
+# 網站描述（會顯示在頁尾或搜尋引擎）
+description: 溫暖又孤獨，喧囂又寂寞。
