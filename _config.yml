@@ -1,2 +1,5 @@
-title: 我的隨筆
-theme: jekyll-theme-cayman
+remote_theme: poole/poole
+
+# 以下是 Poole 建議的基礎設定
+title: Ayerpazbulikinoff
+description: 溫暖又孤獨，喧囂又寂寞。
