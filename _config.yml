@@ -1,5 +1,4 @@
+theme: jekyll-theme-primer # 先放一個基礎底圖
+plugins:
+  - jekyll-remote-theme # 告訴 GitHub 啟動遠端抓取功能
 remote_theme: poole/poole
-
-# 以下是 Poole 建議的基礎設定
-title: Ayerpazbulikinoff
-description: 溫暖又孤獨，喧囂又寂寞。
