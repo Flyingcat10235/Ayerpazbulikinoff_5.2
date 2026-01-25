@@ -1,1 +1,4 @@
+theme: jekyll-theme-primer # 先放一個基礎底圖
+plugins:
+  - jekyll-remote-theme # 告訴 GitHub 啟動遠端抓取功能
 remote_theme: poole/poole
